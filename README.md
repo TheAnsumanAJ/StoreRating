@@ -6,7 +6,7 @@ Deployed Link: https://store-rating-frontend-lime.vercel.app
 ADMIN_EMAIL=adminAJ@gmail.com
 ADMIN_PASSWORD=adminAJ@2027
 
-#Store User Credentials:
+#Store Owner Credentials:
 email: mohammad.rahman@example.com
 password: Mohammad@2026
 
